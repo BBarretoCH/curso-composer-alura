@@ -39,5 +39,7 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações dos seguintes scripts(Phan, cs, test) nessa ordem"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": "[buscar-cursos.php]"
 }
